@@ -12,8 +12,8 @@ export default function Home() {
     <main className="relative bg-gray-50 dark:bg-[#0a0a0a] min-h-screen overflow-hidden">
       <Hero />
       <About />
-      <Services />
       <Structure />
+      <Services />
       <Partners />
       <Contact />
     </main>
