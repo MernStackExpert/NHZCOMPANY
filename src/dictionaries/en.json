@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "structure": "Structure",
+    "services": "Services",
+    "partners": "SUCCESS PARTNERS",
+    "contact": "Contact",
+    "lang": "العربية"
+  },
+  "hero": {
+    "title": "NHZ General contractors",
+    "subtitle": "شركة نهز للمقاولات العامة",
+    "btnText": "Learn More"
+  },
+  "about": {
+    "title": "About US",
+    "desc1": "We are a team of dedicated professionals committed to delivering the finest services and products to our clients. Our constant pursuit of excellence and innovation drives us to achieve the highest standards of quality, ensuring that we meet and exceed your expectations. Our core values are built upon trust, dedication, and excellence, guaranteeing our clients an exceptional and seamless experience.",
+    "desc2": "Join us on our journey toward greater success and distinction in everything we do.",
+    "desc3": "At NHZ Contracting Company, we strongly believe in the importance of executing and completing projects on time and within the approved budget. Based on this commitment, our company has successfully planned, designed, and executed numerous projects across the Kingdom of Saudi Arabia in accordance with the highest standards of quality, while adhering strictly to project schedules and allocated budgets.",
+    "projectsTitle": "Among our most notable projects are:",
+    "projectsList": [
+      "Infrastructure works for Plot No. 4011, Al Narjis District – Riyadh",
+      "Infrastructure works for Al Saidaneyyah Development, Riyadh",
+      "Infrastructure works for Al ‘Inadiyyah Development, Riyadh",
+      "Road cutting, grading, and construction works – Al Waseel, Riyadh",
+      "Design and construction of (3) water tanks – Al Waseel, Riyadh",
+      "Rock protection, retaining, and grading of mountain road slopes – Al Waseel, Riyadh",
+      "Construction of a parking facility for Najd Schools Complex – Riyadh"
+    ],
+    "desc4": "In addition to these, the company has successfully completed many other distinguished projects, reflecting our extensive experience and proven expertise in the execution of diverse infrastructure works across the Kingdom.",
+    "desc5": "(For more information, please refer to the company’s profile.)",
+    "profileBtn": "profile"
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      {
+        "name": "Roads networks",
+        "desc": "Our company excels in executing road network projects in accordance with the highest approved engineering standards, from the topographic study and design phase to full on-site implementation. Our scope of work includes the construction of subgrade and base layers, filling, and paving using materials that meet standard specifications, as well as the installation of sidewalks, stormwater drainage systems, lighting networks, and directional signage. We are committed to applying the latest surveying, measurement, and automated quality control technologies to ensure precision in execution and long-term performance sustainability, with a strong focus on integrating infrastructure with traffic safety. Our engineering team takes pride in its extensive experience in managing large-scale projects and providing innovative solutions that contribute to the development of modern road networks, supporting urban growth and aligning with future visions."
+      },
+      {
+        "name": "wastewater & storm water drainage",
+        "desc": "We specialize in the execution of wastewater and stormwater drainage network projects, adhering to the highest international standards recognized in the field. Our company possesses extensive experience in deep excavation and pipeline installation using a wide range of materials, enabling us to deliver reliable solutions that meet the diverse needs of sewage infrastructure projects. We also carry out the construction of manholes and lift stations with exceptional precision, maintaining strict compliance with safety and quality standards to ensure the optimal performance of these vital facilities. Our specialized teams utilize advanced, state-of-the-art systems that help ensure the efficiency and long-term reliability of the networks. We provide innovative engineering solutions capable of addressing the challenges of urban drainage, contributing to the achievement of sustainable urban development goals. Furthermore, we strive to meet the needs of local communities and enhance their quality of life by creating safe and healthy environments that promote public well-being."
+      },
+      {
+        "name": "potable water & FIRE fighting network",
+        "desc": "Our company specializes in the execution of potable water and fire-fighting networks in accordance with the highest international standards and specifications in the field of infrastructure. Our scope of work includes the installation of pipelines of various diameters and materials (D.I, HDPE, UPVC, STEEL), connecting them to water tanks and pumping stations, and installing valves, control chambers, and fire hydrants. We also apply advanced insulation systems and conduct precise pressure testing to ensure optimal operational efficiency and network safety. Our engineering teams utilize the latest technologies in surveying, testing, and flow and pressure control to ensure continuous water supply and achieve the highest levels of reliability. We also ensure that fire-fighting networks are designed and implemented in compliance with Civil Defense standards and international requirements (NFPA) to provide maximum safety and protection for facilities and structures. We are committed to delivering integrated engineering solutions that align with urban development, enhance quality of life, and support the sustainability of water resources."
+      },
+      {
+        "name": "electrical and lighting networks",
+        "desc": "Our company is distinguished by its execution of electrical and lighting networks in accordance with the highest standards of safety and quality, with full compliance to the technical specifications issued by the relevant authorities. Our scope of work includes the installation of low- and medium-voltage networks, the construction of distribution stations, transformer rooms, and control panels, in addition to smart lighting systems that utilize energy-efficient (LED) technologies equipped with advanced control systems to enhance operational efficiency and reduce energy consumption. We employ the latest technologies in insulation, load, and grounding tests to ensure network stability and long-term operational safety. Furthermore, we implement street, square, and tunnel lighting projects that reflect an integrated urban vision combining functional aesthetics with field safety. With our specialized technical expertise, we deliver comprehensive electrical solutions that promote sustainable development and contribute to building smarter, safer, and brighter cities."
+      }
+    ]
+  },
+  "partners": {
+    "title": "SUCCESS PARTNERS"
+  },
+  "structure": {
+    "title": "company structure",
+    "team": [
+      {
+        "name": "Eng. Abdulaziz Almogheer",
+        "role": "Co-Founder and General Manager",
+        "desc": "is a highly experienced leader in infrastructure and civil projects across the Kingdom of Saudi Arabia. His expertise covers roads, water networks, sewage systems, storm water drainage, telecommunications networks, and electrical works."
+      },
+      {
+        "name": "Eng. Abdulrahman Almogheer",
+        "role": "Co-Founder, Deputy General Manager, Director of Financial & Administrative Affairs",
+        "desc": "is the leader responsible for financial planning, cost control, and oversight of administrative operations, ensuring efficiency and compliance within the company."
+      },
+      {
+        "name": "Eng. Mahmoud Alhaggar",
+        "role": "Projects Management Team Leader",
+        "desc": "leads our projects management team, ensuring every build meets NHZ General Contracting Company’s standards for finishing on time under the precise budget with high quality and safety."
+      },
+      {
+        "name": "Eng. Mohammed Naveed",
+        "role": "Civil Engineering Specialist",
+        "desc": "specializes in Civil engineering, bringing innovative solutions to complex construction challenges and satisfaction throughout every project phase."
+      },
+      {
+        "name": "Mohamed Alhassan",
+        "role": "Mechanical Works Manager",
+        "desc": "is responsible for mechanical works, providing innovative, model solutions based on standard specifications. He is committed to ensuring client satisfaction throughout all the project."
+      },
+      {
+        "name": "Ali AlHassan",
+        "role": "Equipment Team Supervisor",
+        "desc": "supervises the operation of our equipment team, ensuring that the work is carried out to the fullest extent possible, with the machinery and equipment at their full capacity."
+      },
+      {
+        "name": "Eng. Mohammed Abdulaziz",
+        "role": "Supervision Team Leader",
+        "desc": "leads our supervision team and ensures that all operations at NHZ adhere to approved standards delivering projects on time, within budget, and with the highest levels of quality and safety."
+      },
+      {
+        "name": "Yousef Amer",
+        "role": "Equipment Team Leader",
+        "desc": "leads our equipment team, ensuring that all machinery and equipment are fully prepared and operating at peak efficiency to perform their tasks on time and within budget."
+      },
+      {
+        "name": "Ibraheem Alhassan",
+        "role": "Electrical Works Overseer",
+        "desc": "is responsible for overseeing electrical works in infrastructure and construction projects, ensuring the highest standards of quality and safety, strict adherence to technical specifications."
+      },
+      {
+        "name": "Suhail Asghar",
+        "role": "Surveying Works Manager",
+        "desc": "is responsible for surveying works, providing innovative solutions to address complex challenges in the fields of infrastructure and construction, while ensuring client satisfaction."
+      },
+      {
+        "name": "Mohammed Rizk",
+        "role": "Accounts and Costs Manager",
+        "desc": "is responsible for managing accounts, costs, and auditing both client and company accounts. He provides flexible solutions to address complex challenges in accounting and financial management."
+      }
+    ]
+  },
+  "footer": {
+    "addressTitle": "Address",
+    "address": "Abi Muhammad Al Attar Street - prince Bandar Ibn Abd Al Aziz Road - Al Khaleej region - Riyadh",
+    "phoneTitle": "Phone",
+    "phone1": "+966509888999",
+    "phone2": "+966555177757",
+    "contactTitle": "Contact",
+    "email": "nhz@nhzcompany.com",
+    "copyright": "All rights reserved 2025 for NHZ General Contractors Co.®",
+    "credit": "Designed & Created by: Eng. Mahmoud Alhaggar"
+  }
+}
